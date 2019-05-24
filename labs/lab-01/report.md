@@ -16,3 +16,8 @@
 	Since he did nothing to remedy this issue, he was approached with a law suit which would not be easy to get out of. It shows
 	that you have to be careful in every aspect of developing anything and need to think how your software could be used
 	maliciously or exploited for illegal use.
+
+# 18. Blocky Maze
+	Heres the Code and the successful run.
+	<img src="images/code.png">
+	<img src="images/won.png">
