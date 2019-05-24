@@ -2,8 +2,9 @@
 ## Jack Cherella
 
 ## Bio
-# email: cherej@rpi.edu 
-# github account: Jcherella
+### email: cherej@rpi.edu 
+### github account: Jcherella
+### Mattermost account: jcherella
 Jack Cherella:[Photo of me](IMG_2325.JPG)
 
 
