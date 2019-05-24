@@ -6,7 +6,7 @@
 ### github account: Jcherella
 ### Mattermost account: jcherella
 
-<img src="IMG_2325.JPG" width="300" height="100">
+<img src="IMG_2325.JPG" width="200" height="100">
 
 
 ## Lab Reports
