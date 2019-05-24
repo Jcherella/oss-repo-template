@@ -4,7 +4,7 @@
 ## Bio
 # email: cherej@rpi.edu 
 # github account: Jcherella
-[Me](IMG_2325.jpg)
+[Me](IMG_2325.JPG)
 
 
 ## Lab Reports
