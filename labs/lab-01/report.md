@@ -17,6 +17,14 @@
 	that you have to be careful in every aspect of developing anything and need to think how your software could be used
 	maliciously or exploited for illegal use.
 
+# 15 Regex Problems
+<img src="images/problem1.png">
+<img src="images/problem2.png">
+<img src="images/problem3.png">
+<img src="images/problem4.png">
+<img src="images/problem5.png">
+<img src="images/problem6.png">
+<img src="images/problem7.png">
 # 18. Blocky Maze
 	Heres the Code and the successful run.
 <img src="images/code.jpg">
