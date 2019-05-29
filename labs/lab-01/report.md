@@ -26,6 +26,12 @@
 <img src="images/problem6.PNG">
 <img src="images/problem7.PNG">
 
+# 16 Regex Crossword Puzzles
+<img src="images/puzzle1.PNG">
+<img src="images/puzzle2.PNG">
+<img src="images/puzzle3.PNG">
+<img src="images/puzzle4.PNG">
+
 # 18. Blocky Maze
 	Heres the Code and the successful run.
 <img src="images/code.jpg">
