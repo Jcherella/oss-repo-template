@@ -19,4 +19,5 @@
 
 # 18. Blocky Maze
 	Heres the Code and the successful run.
-<img src="images/problem1.JPG">
+<img src="images/code.JPG">
+<img src="images/won.JPG">
