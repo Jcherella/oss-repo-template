@@ -18,13 +18,14 @@
 	maliciously or exploited for illegal use.
 
 # 15 Regex Problems
-<img src="images/problem1.png">
-<img src="images/problem2.png">
-<img src="images/problem3.png">
-<img src="images/problem4.png">
-<img src="images/problem5.png">
-<img src="images/problem6.png">
-<img src="images/problem7.png">
+<img src="images/problem1.PNG">
+<img src="images/problem2.PNG">
+<img src="images/problem3.PNG">
+<img src="images/problem4.PNG">
+<img src="images/problem5.PNG">
+<img src="images/problem6.PNG">
+<img src="images/problem7.PNG">
+
 # 18. Blocky Maze
 	Heres the Code and the successful run.
 <img src="images/code.jpg">
