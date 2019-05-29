@@ -19,5 +19,6 @@
 
 # 18. Blocky Maze
 	Heres the Code and the successful run.
+![alt text](../images/code.JPG "Description goes here")
 <img src="../images/code.JPG">
 <img src="../images/won.JPG">
