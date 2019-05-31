@@ -17,6 +17,9 @@
 	that you have to be careful in every aspect of developing anything and need to think how your software could be used
 	maliciously or exploited for illegal use.
 
+# 13 Linux Tree Install
+<img src="images/linux.PNG">
+
 # 15 Regex Problems
 <img src="images/problem1.PNG">
 <img src="images/problem2.PNG">
@@ -36,3 +39,14 @@
 	Heres the Code and the successful run.
 <img src="images/code.jpg">
 <img src="images/won.jpg">
+
+# 19. Reflection
+	https://github.com/SaltieRL/carball
+	I've been interested in this Open Source project and using if for a project of my own. It is a open source project which can 
+	unpack these replay files for the game Rocket League and spit out relevant data about the specifics of the game. Using this
+	tool I can run data tests on each individual game and find tendencies that particular players have. It can also be used to 
+	identify whether certain decisions or plays lead to desirable or less desirable outcomes. In doing so I would like to find out
+	whether you can quantify what goes into high level play and what seperates the good players from the best. This would be similar 
+	how professional sports are moving to data analytics to help quantify players, however using this tool you can more easily get
+	the stats and even create new stats to find out such things.
+	
