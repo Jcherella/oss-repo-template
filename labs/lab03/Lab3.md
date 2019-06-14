@@ -15,4 +15,8 @@
 <img src="images/gitstats.png">
 <img src="images/gource.png">
     
+
+## Other projects:
+    Link to other projects: 
+    https://github.com/ChrisReed0114/OSS-Repo/tree/master/lab3-contrib
     
