@@ -1,6 +1,7 @@
 # Lab 5
 
 ## Step 1
+```
   #include <cmath>
   #include <cstdlib>
   #include <iostream>
@@ -21,4 +22,4 @@
             << std::endl;
     return 0;
   }
-
+```
