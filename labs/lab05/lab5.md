@@ -47,7 +47,8 @@ target_include_directories(Tutorial PUBLIC
         "${PROJECT_BINARY_DIR}"
 )
 ```
-  Output *insert Step1 image here*
+  Output
+  <img src="images/Step1.png">
   
   
 ## Step 2
@@ -118,7 +119,8 @@ target_include_directories(Tutorial PUBLIC
                            )
 
 ```
-Output *insert Step2 image*
+Output
+<img src="images/Step2.png">
 
 ## Step 3
   CMakeLists.txt
@@ -165,7 +167,8 @@ dd_library(MathFunctions mysqrt.cxx)
 target_include_directories(MathFunctions
             INTERFACE ${CMAKE_CURRENT_SOURCE_DIR})
 ```
-  Output *insert Step3 image*
+  Output 
+  <img src="images/Step3.png">
   
 ## Step 4
   CMakeLists.txt
@@ -247,7 +250,8 @@ target_include_directories(MathFunctions
           INTERFACE ${CMAKE_CURRENT_SOURCE_DIR}
           )
 ```
-  Output *insert Step4 image*
+  Output *
+  <img src="images/Step4.png">
   
 ## Step 5
   CMakeLists.txt
@@ -342,7 +346,8 @@ target_include_directories(MathFunctions
 install(TARGETS MathFunctions DESTINATION lib)
 install(FILES MathFunctions.h DESTINATION include)
 ```
-  Output *insert Step5 image*
+  Output
+  <img src="images/Step5.png">
   
 ## Lab-Example
   Makefile
@@ -656,3 +661,7 @@ cmake_check_build_system:
 8784 Jun 28 22:29 static_block
 ```
 Output *insert dyn and stat img*
+dynamic:
+<img src="images/dynamic.png">
+Static:
+<img src="images/static.png">
