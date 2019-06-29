@@ -119,8 +119,8 @@ target_include_directories(Tutorial PUBLIC
                            )
 
 ```
-Output
-<img src="images/Step2.png">
+  Output
+  <img src="images/Step2.png">
 
 ## Step 3
   CMakeLists.txt
@@ -250,7 +250,7 @@ target_include_directories(MathFunctions
           INTERFACE ${CMAKE_CURRENT_SOURCE_DIR}
           )
 ```
-  Output *
+  Output
   <img src="images/Step4.png">
   
 ## Step 5
@@ -660,8 +660,8 @@ cmake_check_build_system:
 8784 Jun 28 22:29 dynamic_block
 8784 Jun 28 22:29 static_block
 ```
-Output *insert dyn and stat img*
-dynamic:
-<img src="images/dynamic.png">
-Static:
-<img src="images/static.png">
+  Output
+  dynamic:
+  <img src="images/dynamic.png">
+  Static:
+  <img src="images/static.png">
