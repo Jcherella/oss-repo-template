@@ -39,4 +39,7 @@ CMD ["flask", "run", "--host=0.0.0.0"]
   <img src="images/lab603_2.png">
   
   Docker-Example 04:
-  Will be done once Docker stops being garbage.
+  <img src="images/lab604.png">
+  <img src="images/lab604_1.png">
+  <img src="images/lab604_2.png">
+  
