@@ -2,7 +2,7 @@
   <img src="images/checkpoint1.png">
   
 # Checkpoint 2
-  <img src="images/checkpoint.png">
+  <img src="images/checkpoint2.png">
   
 # Checkpoint 3
   
